@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/CyronF/Book-Search-Engine/issues"
   },
-  "homepage": "https://github.com/CyronF/Book-Search-Engine#readme"
+  "homepage": "https://github.com/CyronF/Book-Search-Engine#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.1.2",
+    "express": "^4.17.1",
+    "missing": "0.0.1",
+    "path": "^0.12.7"
+  }
 }
