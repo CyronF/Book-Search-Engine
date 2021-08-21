@@ -1,0 +1,19 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "```md\r AS AN avid reader\r I WANT to search for new books to read\r SO THAT I can keep a list of books to purchase\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyronF/Book-Search-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyronF/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/CyronF/Book-Search-Engine#readme"
+}
