@@ -2,8 +2,6 @@
   "name": "book-search",
   "version": "1.0.0",
   "description": "```md\r AS AN avid reader\r I WANT to search for new books to read\r SO THAT I can keep a list of books to purchase\r ```",
-
-  
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
